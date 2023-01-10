@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="mvaisakh/android_device_xiaomi_alioth" path="device/xiaomi/alioth" remote="github" revision="tm" />
+    <project name="mvaisakh/android_device_xiaomi_alioth-kernel" path="device/xiaomi/alioth-kernel" remote="github" revision="tm" />
+    <project name="mvaisakh/android_device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" remote="github" revision="tm" />
+    <project name="mvaisakh/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="tm" />
+    <project name="android_vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" remote="gitlab" revision="tm" />
+    <project name="android_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" remote="gitlab" revision="tm" />
+    <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-20.0" />
+</manifest>
